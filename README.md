@@ -227,13 +227,4 @@ ielts-essay-assistant/
 
 ---
 
-## 📧 联系方式
-
-如有问题或建议，欢迎通过以下方式联系：
-
-- 提交 [GitHub Issue](../../issues)
-- 发送邮件至 [your-email@example.com]
-
----
-
 **祝大家雅思考试顺利，取得理想成绩！** 🎉
