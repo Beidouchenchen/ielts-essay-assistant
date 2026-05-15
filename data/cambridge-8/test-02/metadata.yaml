@@ -1,0 +1,29 @@
+source: Cambridge IELTS 8
+book: 8
+test: 02
+question_types:
+  task1:
+    type: pie_chart
+    chart_type: multiple_pie_chart
+    topic: school_spending
+    time_span: "1981, 1991, 2001"
+    data_points: 15
+    has_comparison: true
+    is_multi_chart: true
+    num_charts: 3
+    key_features:
+      - teachers' salaries largest cost in all three years
+      - teachers' salaries increased from 40% to 50% then decreased to 45%
+      - other workers' salaries decreased from 28% to 15%
+      - furniture and equipment decreased then increased dramatically
+      - resources (books) increased then decreased significantly
+      - insurance remained small but increased
+  task2:
+    type: discussion
+    topic: technology_relationships
+    question: "Nowadays the way many people interact with each other has changed because of technology. In what ways has technology affected the types of relationships people make? Has this become a positive or negative development?"
+    keywords:
+      - technology
+      - relationships
+      - interaction
+      - positive/negative

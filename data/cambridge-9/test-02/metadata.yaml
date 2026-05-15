@@ -1,0 +1,28 @@
+source: Cambridge IELTS 9
+book: 9
+test: 02
+question_types:
+  task1:
+    type: bar_chart
+    chart_type: grouped_bar_chart
+    topic: telephone_calls
+    time_span: "1995-2002"
+    data_points: 8
+    has_comparison: true
+    is_multi_chart: false
+    num_charts: 1
+    key_features:
+      - local fixed line highest throughout but declined after 1999 peak
+      - national/international fixed line grew steadily
+      - mobile calls grew dramatically from 2bn to 46bn
+      - mobile growth particularly rapid 1999-2002
+      - gap between categories narrowed considerably
+  task2:
+    type: opinion
+    topic: community_service
+    question: "Some people believe that unpaid community service should be a compulsory part of high school programmes (for example working for a charity, improving the neighbourhood or teaching sports to younger children). To what extent do you agree or disagree?"
+    keywords:
+      - community service
+      - high school
+      - compulsory
+      - volunteering

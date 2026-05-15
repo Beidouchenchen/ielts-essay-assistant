@@ -1,0 +1,29 @@
+source: Cambridge IELTS 15
+book: 15
+test: 01
+question_types:
+  task1:
+    type: bar_chart
+    chart_type: bar_chart_grouped
+    topic: coffee_and_tea_habits_in_australia
+    time_span: last 4 weeks
+    data_points: 15
+    has_comparison: true
+    is_multi_chart: false
+    num_charts: 1
+    key_features:
+      - Coffee and tea buying and drinking habits in five Australian cities
+      - Three categories: bought fresh coffee, bought instant coffee, went to a cafe
+      - Sydney and Melbourne show highest cafe usage
+      - Brisbane has highest instant coffee purchases
+      - Adelaide and Hobart show similar patterns
+  task2:
+    type: two_part_question
+    topic: owning_home_vs_renting
+    question: "In some countries, owning a home rather than renting one is very important for people. Why might this be the case? Do you think this is a positive or negative situation?"
+    keywords:
+      - owning home
+      - renting
+      - positive
+      - negative
+      - importance

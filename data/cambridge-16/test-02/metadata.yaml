@@ -1,0 +1,27 @@
+source: Cambridge IELTS 16
+book: 16
+test: 02
+question_types:
+  task1:
+    type: process_diagram
+    chart_type: process
+    topic: sugar_production_from_sugar_cane
+    time_span: N/A
+    data_points: 7
+    has_comparison: false
+    is_multi_chart: false
+    num_charts: 1
+    key_features:
+      - 7-step manufacturing process
+      - Growing, harvesting, crushing, purifying juice, evaporator, centrifuge, drying and cooling
+      - Sugar cane → juice → syrup → sugar crystals → dried sugar
+  task2:
+    type: opinion
+    topic: advertising_new_products
+    question: "In their advertising, businesses nowadays usually emphasise that their products are new in some way. Why is this? Do you think it is a positive or negative development?"
+    keywords:
+      - advertising
+      - new products
+      - positive
+      - negative
+      - development

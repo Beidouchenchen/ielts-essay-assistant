@@ -1,0 +1,30 @@
+source: Cambridge IELTS 15
+book: 15
+test: 04
+question_types:
+  task1:
+    type: mixed
+    chart_type: pie_chart_and_table
+    topic: anthropology_graduates_destination_and_salaries
+    time_span: after 5 years
+    data_points: 18
+    has_comparison: true
+    is_multi_chart: true
+    num_charts: 2
+    key_features:
+      - Pie chart: Destination of Anthropology graduates (from one university)
+      - Table: Salaries of Anthropology graduates (after 5 years' work)
+      - Full-time work is the largest category (45%)
+      - Part-time work is second largest (18%)
+      - Overseas graduates earn highest salaries ($55,500)
+      - Government sector has highest percentage in $45,500+ bracket (30%)
+  task2:
+    type: two_part_question
+    topic: children_achieving_anything
+    question: "In some cultures, children are often told that they can achieve anything if they try hard enough. What are the advantages and disadvantages of giving children this message?"
+    keywords:
+      - children
+      - achieve
+      - try hard
+      - advantages
+      - disadvantages

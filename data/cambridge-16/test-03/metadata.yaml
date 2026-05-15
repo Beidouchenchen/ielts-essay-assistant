@@ -1,0 +1,29 @@
+source: Cambridge IELTS 16
+book: 16
+test: 03
+question_types:
+  task1:
+    type: map
+    chart_type: map_comparison
+    topic: southwest_airport_redevelopment
+    time_span: now vs after development
+    data_points: 18
+    has_comparison: true
+    is_multi_chart: false
+    num_charts: 1
+    key_features:
+      - Current vs future airport layout
+      - Gates expanded from 8 to 18
+      - New facilities: bag drop, ATM, sky train, car hire
+      - Shops added between departures and passport control
+      - Walkway removed and replaced with expanded terminal
+  task2:
+    type: opinion
+    topic: sugary_products_tax
+    question: "Many manufactured food and drink products contain high levels of sugar, which causes many health problems. Sugary products should be made more expensive to encourage people to consume less sugar. Do you agree or disagree?"
+    keywords:
+      - sugar
+      - health problems
+      - expensive
+      - tax
+      - agree/disagree

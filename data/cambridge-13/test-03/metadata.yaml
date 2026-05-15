@@ -1,0 +1,28 @@
+source: Cambridge IELTS 13
+book: 13
+test: 03
+question_types:
+  task1:
+    type: bar_chart
+    chart_type: horizontal_bar_chart
+    topic: electricity_production_consumption
+    time_span: "2014"
+    data_points: 10
+    has_comparison: true
+    is_multi_chart: false
+    num_charts: 1
+    key_features:
+      - China ranked 1st in both production (5,398) and consumption (5,322)
+      - United States ranked 2nd in both
+      - All countries except Germany produce more than they consume
+      - Germany consumed more (582.5) than produced (526.6)
+      - Korea Rep. ranked 10th in both
+  task2:
+    type: discussion
+    topic: education_subjects
+    question: "Some people say History is one of the most important school subjects. Other people think that, in today's world, subjects like Science and Technology are more important than History. Discuss both these views and give your own opinion."
+    keywords:
+      - History
+      - Science and Technology
+      - school subjects
+      - education importance

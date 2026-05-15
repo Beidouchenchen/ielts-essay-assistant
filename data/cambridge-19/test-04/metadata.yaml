@@ -1,0 +1,25 @@
+source: Cambridge IELTS 19
+book: 19
+test: 04
+
+question_types:
+  task1:
+    type: mixed
+    chart_type: pie_chart + bar_chart
+    topic: dance_classes
+    time_span: "current"
+    data_points: 10
+    has_comparison: true
+    is_multi_chart: true
+    num_charts: 2
+    key_features:
+      - Pie chart: Private studios 48%, School halls 24%, Community halls 18%, College-based 10%
+      - Bar chart: Ballet most popular for Under 11 (~600), Modern most popular for 11-16 (~515)
+      - Tap popular for both age groups
+      - Under 11 prefer Ballet, 11-16 prefer Modern
+
+  task2:
+    type: opinion
+    topic: global_food
+    question: "In many countries nowadays, consumers can go to a supermarket and buy food produced all over the world. Do you think this is a positive or negative development?"
+    keywords: [globalisation, food, supermarket, imports, local economy, environment]

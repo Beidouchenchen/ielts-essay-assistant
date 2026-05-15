@@ -1,0 +1,26 @@
+source: Cambridge IELTS 20
+book: 20
+test: 03
+
+question_types:
+  task1:
+    type: mixed
+    chart_type: pie_chart + bar_chart + table
+    topic: public_library
+    time_span: "2007-2016"
+    data_points: 15
+    has_comparison: true
+    is_multi_chart: true
+    num_charts: 3
+    key_features:
+      - Pie chart: adults 18-64 are the majority of members (51%)
+      - Pie chart: children make up 22%, young adults 13-17 smallest group
+      - Table: fiction is most popular category (38% for both children and adults)
+      - Bar chart: loans increased from ~15,000 in 2007 to ~21,000 in 2016
+      - Loans peaked around 2011, dipped 2012-2013, then recovered
+
+  task2:
+    type: discussion
+    topic: environment_vs_business
+    question: "Some people have decided to reduce the number of times they fly every year or to stop flying altogether. Do you think the environmental benefits of this development outweigh the disadvantages for individuals and businesses?"
+    keywords: [environment, air travel, climate change, business, individual impact]

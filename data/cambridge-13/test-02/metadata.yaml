@@ -1,0 +1,27 @@
+source: Cambridge IELTS 13
+book: 13
+test: 02
+question_types:
+  task1:
+    type: bar_chart
+    chart_type: grouped_bar_chart
+    topic: housing_ownership
+    time_span: "1918-2011"
+    data_points: 9
+    has_comparison: true
+    is_multi_chart: false
+    num_charts: 1
+    key_features:
+      - rented households peaked at ~78% in 1918 then declined
+      - owned households rose from ~22% to peak ~69% in 1991
+      - crossover around 1971 at ~50% each
+      - slight increase in rented after 2001
+  task2:
+    type: opinion
+    topic: choices_in_life
+    question: "Some people believe that nowadays we have too many choices. To what extent do you agree or disagree with this statement?"
+    keywords:
+      - too many choices
+      - modern life
+      - decision making
+      - consumer choices

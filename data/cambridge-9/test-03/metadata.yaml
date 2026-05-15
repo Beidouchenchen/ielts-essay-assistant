@@ -1,0 +1,29 @@
+source: Cambridge IELTS 9
+book: 9
+test: 03
+question_types:
+  task1:
+    type: pie_chart
+    chart_type: multiple_pie_chart
+    topic: population_age
+    time_span: "2000 and 2050 (projections)"
+    data_points: 4
+    has_comparison: true
+    is_multi_chart: true
+    num_charts: 4
+    key_features:
+      - Yemen 2000: 0-14 years 50.1%, 15-59 years 46.3%, 60+ years 3.6%
+      - Yemen 2050: 0-14 years 37.0%, 15-59 years 57.3%, 60+ years 5.7%
+      - Italy 2000: 0-14 years 14.3%, 15-59 years 61.6%, 60+ years 24.1%
+      - Italy 2050: 0-14 years 11.5%, 15-59 years 46.2%, 60+ years 42.3%
+      - Yemen young population decreasing, older groups increasing
+      - Italy 60+ group nearly doubling, 15-59 decreasing significantly
+  task2:
+    type: discussion
+    topic: sports_facilities
+    question: "Some people say that the best way to improve public health is by increasing the number of sports facilities. Others, however, say that this would have little effect on public health and that other measures are required. Discuss both these views and give your own opinion."
+    keywords:
+      - public health
+      - sports facilities
+      - other measures
+      - discussion

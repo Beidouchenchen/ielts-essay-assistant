@@ -1,0 +1,31 @@
+source: Cambridge IELTS 12
+book: 12
+test: 06
+question_types:
+  task1:
+    type: map
+    chart_type: map_comparison
+    topic: town_development
+    time_span: "now-future"
+    data_points: null
+    has_comparison: true
+    is_multi_chart: true
+    num_charts: 2
+    key_features:
+      - main road replaced by dual carriageway
+      - shops replaced by shopping centre
+      - bus station and car park added
+      - new housing added in two areas
+      - pedestrians only zone in centre
+      - school remains
+      - park remains but smaller
+      - countryside disappears
+  task2:
+    type: advantages_disadvantages
+    topic: population_demographics
+    question: "At the present time, the population of some countries includes a relatively large number of young adults, compared with the number of older people. Do the advantages of this situation outweigh the disadvantages?"
+    keywords:
+      - young adults
+      - older people
+      - population demographics
+      - advantages disadvantages

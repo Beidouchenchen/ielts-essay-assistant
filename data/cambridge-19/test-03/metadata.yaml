@@ -1,0 +1,27 @@
+source: Cambridge IELTS 19
+book: 19
+test: 03
+
+question_types:
+  task1:
+    type: process
+    chart_type: process_diagram
+    topic: biofuel_ethanol_production
+    time_span: "n/a"
+    data_points: 8
+    has_comparison: false
+    is_multi_chart: false
+    num_charts: 1
+    key_features:
+      - Cyclical process (carbon dioxide recycled)
+      - Plants grow using energy (sunlight + CO2)
+      - Harvesting → Pre-processing → Cellulose
+      - Processing → Sugars → Microbes added → Ethanol
+      - Ethanol used by cars, trucks, planes → CO2 released
+      - CO2 reabsorbed by plants (cycle)
+
+  task2:
+    type: opinion
+    topic: saving_money
+    question: "It is important for everyone, including young people, to save money for their future."
+    keywords: [saving, money, young people, future, financial planning]

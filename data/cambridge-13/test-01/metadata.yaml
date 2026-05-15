@@ -1,0 +1,28 @@
+source: Cambridge IELTS 13
+book: 13
+test: 01
+question_types:
+  task1:
+    type: map
+    chart_type: map_comparison
+    topic: hospital_access
+    time_span: "2007-2010"
+    data_points: null
+    has_comparison: true
+    is_multi_chart: true
+    num_charts: 2
+    key_features:
+      - ring road remained unchanged
+      - staff car park remained
+      - new public car park added on east side
+      - new bus station added
+      - two roundabouts added on Hospital Road
+  task2:
+    type: discussion
+    topic: foreign_language
+    question: "Living in a country where you have to speak a foreign language can cause serious social problems, as well as practical problems. To what extent do you agree or disagree with this statement?"
+    keywords:
+      - foreign language
+      - social problems
+      - practical problems
+      - living abroad

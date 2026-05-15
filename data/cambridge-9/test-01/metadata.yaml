@@ -1,0 +1,31 @@
+source: Cambridge IELTS 9
+book: 9
+test: 01
+question_types:
+  task1:
+    type: map
+    chart_type: map_comparison
+    topic: island_tourism
+    time_span: "before-after"
+    data_points: null
+    has_comparison: true
+    is_multi_chart: true
+    num_charts: 2
+    key_features:
+      - island approximately 250 metres long
+      - beach in the west remained
+      - new accommodation units in west and centre
+      - restaurant added in north
+      - central reception block added
+      - vehicle track connecting facilities
+      - pier added in south for sailing
+      - footpath connecting western accommodation to beach
+  task2:
+    type: advantages_disadvantages
+    topic: foreign_language_primary
+    question: "Some experts believe that it is better for children to begin learning a foreign language at primary school rather than secondary school. Do the advantages of this outweigh the disadvantages?"
+    keywords:
+      - foreign language learning
+      - primary school
+      - secondary school
+      - early education

@@ -1,0 +1,31 @@
+source: Cambridge IELTS 8
+book: 8
+test: 04
+question_types:
+  task1:
+    type: line_graph
+    chart_type: multiple_line_graph
+    topic: goods_transport
+    time_span: "1974-2002"
+    data_points: 8
+    has_comparison: true
+    is_multi_chart: false
+    num_charts: 1
+    key_features:
+      - road transport highest throughout, increasing from 70 to 98 million tonnes
+      - water transport second, increasing from 40 to 60+ million tonnes
+      - rail transport relatively stable around 40 million tonnes
+      - pipeline lowest, increasing from 5 to 22 million tonnes
+      - all modes except rail showed significant growth
+      - road remained dominant throughout period
+  task2:
+    type: problem_solution
+    topic: obesity_health
+    question: "In some countries the average weight of people is increasing and their levels of health and fitness are decreasing. What do you think are the causes of these problems and what measures could be taken to solve them?"
+    keywords:
+      - obesity
+      - weight gain
+      - health
+      - fitness
+      - causes
+      - solutions

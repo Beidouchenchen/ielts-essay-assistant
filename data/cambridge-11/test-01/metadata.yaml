@@ -1,0 +1,14 @@
+source: Cambridge IELTS 11
+book: 11
+test: 01
+question_types:
+  task1:
+    type: pie_chart
+    chart_type: pie charts
+    topic: water usage in 6 world areas
+    key_features: [domestic use, agricultural use, industrial use]
+  task2:
+    type: opinion
+    topic: railways vs roads spending
+    question: "Governments should spend money on railways rather than roads. To what extent do you agree or disagree with this statement?"
+    keywords: [railways, roads, government spending]

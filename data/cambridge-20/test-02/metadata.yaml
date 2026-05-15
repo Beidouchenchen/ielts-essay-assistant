@@ -1,0 +1,26 @@
+source: Cambridge IELTS 20
+book: 20
+test: 02
+
+question_types:
+  task1:
+    type: map
+    chart_type: map_comparison
+    topic: farm_site_comparison
+    time_span: "1950-present"
+    data_points: 12
+    has_comparison: true
+    is_multi_chart: true
+    num_charts: 2
+    key_features:
+      - Farm transformed from agricultural to tourism-oriented
+      - Track replaced by road for easier access
+      - New additions: farm shop, camping field, solar panels, holiday cottages
+      - Old barn replaced by holiday cottages near the river
+      - Two parking zones added near the road
+
+  task2:
+    type: discussion
+    topic: school_holidays
+    question: "In many countries, primary and secondary schools close for two months or more in the summer holidays. What is the value of long school holidays? What are the arguments in favour of shorter school holidays?"
+    keywords: [school holidays, education, family, children, summer]

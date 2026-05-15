@@ -1,0 +1,29 @@
+source: Cambridge IELTS 15
+book: 15
+test: 02
+question_types:
+  task1:
+    type: line_graph
+    chart_type: line_graph_multi
+    topic: tourists_visiting_caribbean_island
+    time_span: "2010-2017"
+    data_points: 24
+    has_comparison: true
+    is_multi_chart: false
+    num_charts: 1
+    key_features:
+      - Number of tourists visiting a Caribbean island (2010-2017)
+      - Three lines: total visitors, cruise ship visitors, island-staying visitors
+      - Total visitors increased steadily from 1M to 3.5M
+      - Cruise ship visitors showed the steepest growth
+      - Island-staying visitors remained relatively stable around 1.5M
+  task2:
+    type: opinion
+    topic: printed_vs_online_media
+    question: "In the future, nobody will buy printed newspapers or books because they will be able to read everything they want online without paying. To what extent do you agree or disagree with this statement?"
+    keywords:
+      - printed newspapers
+      - books
+      - online
+      - free
+      - agree/disagree

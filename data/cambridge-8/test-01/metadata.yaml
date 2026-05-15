@@ -1,0 +1,31 @@
+source: Cambridge IELTS 8
+book: 8
+test: 01
+question_types:
+  task1:
+    type: pie_chart
+    chart_type: combined_pie_table
+    topic: land_degradation
+    time_span: 1990s
+    data_points: 7
+    has_comparison: true
+    is_multi_chart: true
+    num_charts: 2
+    key_features:
+      - over-grazing largest cause at 35%
+      - deforestation second at 30%
+      - over-cultivation third at 28%
+      - other causes only 7%
+      - Europe highest total degradation at 23%
+      - North America lowest at 5%
+      - Oceania mainly degraded by over-grazing (11.3%)
+  task2:
+    type: discussion
+    topic: children_education
+    question: "Some people think that parents should teach children how to be good members of society. Others, however, believe that school is the place to learn this. Discuss both these views and give your own opinion."
+    keywords:
+      - parents
+      - school
+      - children
+      - good members of society
+      - discussion

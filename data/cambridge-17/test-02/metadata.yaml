@@ -1,0 +1,25 @@
+source: Cambridge IELTS 17
+book: 17
+test: 02
+
+question_types:
+  task1:
+    type: bar_chart
+    chart_type: bar_chart_grouped
+    topic: tv_programme_viewing
+    time_span: "2010-2018"
+    data_points: 12
+    has_comparison: true
+    is_multi_chart: false
+    num_charts: 1
+    key_features:
+      - Reality shows biggest increase (32% → 48%)
+      - News decreased significantly (55% → 45%)
+      - Drama and Comedy increased moderately
+      - Sports increased, Documentary decreased
+
+  task2:
+    type: opinion
+    topic: children_smartphones
+    question: "Some children spend hours every day on their smartphones. Why is this the case? Do you think this is a positive or a negative development?"
+    keywords: [children, smartphones, time, positive, negative]

@@ -1,0 +1,28 @@
+source: Cambridge IELTS 12
+book: 12
+test: 05
+question_types:
+  task1:
+    type: bar_chart
+    chart_type: grouped_bar_chart
+    topic: physical_activity
+    time_span: "2010"
+    data_points: 6
+    has_comparison: true
+    is_multi_chart: false
+    num_charts: 1
+    key_features:
+      - male higher than female in 15-24 and 25-34 age groups
+      - female higher than male in 35-44, 45-54, 55-64, 65+ age groups
+      - lowest male participation in 35-44 (39.5%)
+      - highest female participation in 55-64 (53.3%)
+  task2:
+    type: discussion
+    topic: information_sharing
+    question: "Some people believe that it is good to share as much information as possible in scientific research, business and the academic world. Others believe that some information is too important or too valuable to be shared freely. Discuss both these views and give your own opinion."
+    keywords:
+      - information sharing
+      - scientific research
+      - business
+      - academic world
+      - intellectual property

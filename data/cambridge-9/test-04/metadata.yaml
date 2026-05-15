@@ -1,0 +1,29 @@
+source: Cambridge IELTS 9
+book: 9
+test: 04
+question_types:
+  task1:
+    type: line_graph
+    chart_type: multiple_line_graph
+    topic: energy_consumption
+    time_span: "1980-2030"
+    data_points: 11
+    has_comparison: true
+    is_multi_chart: false
+    num_charts: 1
+    key_features:
+      - petrol and oil dominant throughout, rising from 35q to projected 47q
+      - coal and natural gas similar levels, both around 24q by 2012
+      - coal predicted to increase steadily to 31q by 2030
+      - natural gas expected to remain stable at 25q after 2014
+      - nuclear, solar/wind, hydropower all low and relatively flat
+      - hydropower fallen back to 1980 levels
+  task2:
+    type: opinion
+    topic: language_extinction
+    question: "Every year several languages die out. Some people think that this is not important because life will be easier if there are fewer languages in the world. To what extent do you agree or disagree with this opinion?"
+    keywords:
+      - language extinction
+      - fewer languages
+      - easier life
+      - agree/disagree

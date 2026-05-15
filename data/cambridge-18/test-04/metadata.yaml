@@ -1,0 +1,25 @@
+source: Cambridge IELTS 18
+book: 18
+test: 04
+
+question_types:
+  task1:
+    type: bar_chart
+    chart_type: bar_chart_grouped
+    topic: household_income_five_cities
+    time_span: "2000-2010"
+    data_points: 15
+    has_comparison: true
+    is_multi_chart: false
+    num_charts: 1
+    key_features:
+      - San Diego highest throughout (~58k-65k)
+      - Philadelphia lowest overall (~40k-48k)
+      - Most cities peaked in 2005 then declined
+      - Dallas and New York in middle range
+
+  task2:
+    type: discussion
+    topic: ageing_population
+    question: "In many countries, people are now living longer than ever before. Some people say an ageing population creates problems for governments. Other people think there are benefits if society has more elderly people. To what extent do the advantages of having an ageing population outweigh the disadvantages?"
+    keywords: [ageing population, advantages, disadvantages, governments, elderly]

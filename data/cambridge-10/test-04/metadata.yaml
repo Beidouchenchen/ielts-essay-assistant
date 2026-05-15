@@ -1,0 +1,29 @@
+source: Cambridge IELTS 10
+book: 10
+test: 04
+question_types:
+  task1:
+    type: process
+    chart_type: life_cycle
+    topic: salmon_life_cycle
+    time_span: "approximately 4 years"
+    data_points: 3
+    has_comparison: false
+    is_multi_chart: false
+    num_charts: 1
+    key_features:
+      - three stages: fry, smolt, adult salmon
+      - eggs laid in upper river among reeds and small stones
+      - fry hatch and move to lower river (fast flowing)
+      - smolt stage after approximately 4 years
+      - adult salmon spend approximately 3 years in open sea
+      - cycle completes when adult salmon return to upper river to lay eggs
+  task2:
+    type: opinion
+    topic: museums_admission
+    question: "Many museums charge for admission while others are free. Do you think the advantages of charging people for admission to museums outweigh the disadvantages?"
+    keywords:
+      - museums
+      - admission fee
+      - free entry
+      - advantages/disadvantages

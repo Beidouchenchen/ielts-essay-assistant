@@ -1,0 +1,14 @@
+book: cambridge-18
+test: 3
+task1:
+  type: map
+  topic: "Central Library layout changes over 20 years"
+  visual_features:
+    - two floor plans (before and after)
+    - reading room, enquiry desk, reference books, fiction, non-fiction, children's section
+    - changes: computer room, café, self-service machines, lecture room
+task2:
+  type: opinion
+  topic: "Rural to urban migration"
+  question: "In many countries around the world, rural people are moving to cities, so the population in the countryside is decreasing. Do you think this is a positive or a negative development?"
+  notes: "Positive or negative development"

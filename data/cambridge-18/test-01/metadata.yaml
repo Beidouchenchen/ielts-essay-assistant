@@ -1,0 +1,26 @@
+source: Cambridge IELTS 18
+book: 18
+test: 01
+
+question_types:
+  task1:
+    type: process
+    chart_type: process_diagram
+    topic: natural_mineral_water_bottling
+    time_span: null
+    data_points: null
+    has_comparison: false
+    is_multi_chart: false
+    num_charts: 1
+    key_features:
+      - Two sections: The source and The factory
+      - Water collected from underground springs
+      - Filtered through sand and stone
+      - UV light purification treatment
+      - Bottled, labeled, packed, distributed
+
+  task2:
+    type: opinion
+    topic: aim_of_science
+    question: "The most important aim of science should be to improve people's lives. To what extent do you agree or disagree with this statement?"
+    keywords: [science, aim, improve lives, agree, disagree]

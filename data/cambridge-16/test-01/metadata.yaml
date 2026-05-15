@@ -1,0 +1,28 @@
+source: Cambridge IELTS 16
+book: 16
+test: 01
+question_types:
+  task1:
+    type: line_graph
+    chart_type: line_graph_multi
+    topic: electrical_appliances_and_housework
+    time_span: "1920-2019"
+    data_points: 25
+    has_comparison: true
+    is_multi_chart: true
+    num_charts: 2
+    key_features:
+      - Percentage of households with washing machines, refrigerators, vacuum cleaners
+      - Number of hours of housework per week per household
+      - All three appliances show increasing ownership over time
+      - Housework hours decreased significantly from 1920 to 2019
+  task2:
+    type: two_part_question
+    topic: history_of_house_or_building
+    question: "In some countries, more and more people are becoming interested in finding out about the history of the house or building they live in. What are the reasons for this? How can people research this?"
+    keywords:
+      - history
+      - house
+      - building
+      - research
+      - reasons

@@ -1,0 +1,14 @@
+source: Cambridge IELTS 11
+book: 11
+test: 02
+question_types:
+  task1:
+    type: pie_chart
+    chart_type: pie charts
+    topic: British students speaking other languages 2000 vs 2010
+    key_features: [Spanish, German, French, other languages]
+  task2:
+    type: opinion
+    topic: recycling legal requirement
+    question: "Some people claim that not enough of the waste from homes is recycled. They say that the only way to increase recycling is for governments to make it a legal requirement. To what extent do you agree or disagree?"
+    keywords: [recycling, waste, legal requirement, government]

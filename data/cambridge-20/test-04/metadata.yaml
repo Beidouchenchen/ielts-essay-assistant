@@ -1,0 +1,27 @@
+source: Cambridge IELTS 20
+book: 20
+test: 04
+
+question_types:
+  task1:
+    type: process
+    chart_type: process_diagram
+    topic: bamboo_fabric_production
+    time_span: "n/a"
+    data_points: 8
+    has_comparison: false
+    is_multi_chart: false
+    num_charts: 1
+    key_features:
+      - 8-stage process from bamboo plant to fabric
+      - Spring planting, autumn harvesting
+      - Cutting into strips, crushing to liquid pulp
+      - Filtering long fibres from liquid
+      - Softening with water and amine oxide
+      - Spinning into yarn, weaving into fabric
+
+  task2:
+    type: discussion
+    topic: global_fashion
+    question: "Many aspects of the way people dress today are influenced by global fashion trends. How has global fashion become such a strong influence on people's lives? Do you think this is a positive or negative development?"
+    keywords: [fashion, globalisation, culture, identity, media]

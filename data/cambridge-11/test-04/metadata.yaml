@@ -1,0 +1,14 @@
+source: Cambridge IELTS 11
+book: 11
+test: 04
+question_types:
+  task1:
+    type: table
+    chart_type: table + pie charts
+    topic: Ashdown Museum visitors and satisfaction before/after refurbishment
+    key_features: [visitors, satisfaction survey, refurbishment, comparison]
+  task2:
+    type: discussion
+    topic: economic progress vs other progress
+    question: "Some people say that economic progress is the only way to measure a country's success. Discuss both views and give your opinion."
+    keywords: [economic progress, country success, measure]

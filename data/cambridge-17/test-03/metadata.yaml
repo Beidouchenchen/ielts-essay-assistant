@@ -1,0 +1,26 @@
+source: Cambridge IELTS 17
+book: 17
+test: 03
+
+question_types:
+  task1:
+    type: pie_chart
+    chart_type: pie_chart_comparison
+    topic: chorleywood_land_use
+    time_span: "1965-present"
+    data_points: 10
+    has_comparison: true
+    is_multi_chart: false
+    num_charts: 2
+    key_features:
+      - Housing increased (40% → 55%)
+      - Parkland decreased (25% → 20%)
+      - Agriculture decreased (20% → 15%)
+      - Woodland halved (10% → 5%)
+      - Commercial stable (5%)
+
+  task2:
+    type: discussion
+    topic: professionals_working_abroad
+    question: "Some people believe that professionals, such as doctors and engineers, should be required to work in the country where they did their training. Others believe they should be free to work in another country if they wish. Discuss both these views and give your own opinion."
+    keywords: [professionals, doctors, engineers, work abroad, training country]

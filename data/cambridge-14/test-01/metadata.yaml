@@ -1,0 +1,26 @@
+source: Cambridge IELTS 14
+book: 14
+test: 01
+
+question_types:
+  task1:
+    type: pie_charts
+    chart_type: multiple_pie_charts
+    topic: nutrient_percentages_in_meals
+    time_span: null
+    data_points: 12
+    has_comparison: true
+    is_multi_chart: true
+    num_charts: 3
+    key_features:
+      - Three pie charts showing sodium, saturated fat, and added sugar in USA meals
+      - Four meal categories: Breakfast, Lunch, Dinner, Snacks
+      - Dinner highest in sodium (43%) and saturated fat (37%)
+      - Snacks highest in added sugar (42%)
+      - Breakfast consistently lowest across all three nutrients (14-16%)
+
+  task2:
+    type: discussion
+    topic: accepting_vs_improving_bad_situations
+    question: "Some people believe that it is best to accept a bad situation, such as an unsatisfactory job or shortage of money. Others argue that it is better to try and improve such situations. Discuss both these views and give your own opinion."
+    keywords: [bad situation, accept, improve, job, money, discussion]

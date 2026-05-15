@@ -1,0 +1,25 @@
+source: Cambridge IELTS 17
+book: 17
+test: 04
+
+question_types:
+  task1:
+    type: line_graph
+    chart_type: line_graph_multi
+    topic: shop_closures_openings
+    time_span: "2011-2018"
+    data_points: 16
+    has_comparison: true
+    is_multi_chart: false
+    num_charts: 1
+    key_features:
+      - Closures fluctuated around 5,000-6,400
+      - Dramatic fall in closures in 2015 to ~700
+      - Openings started high (~8,500), declined to ~3,000
+      - Overall downward trend in both metrics
+
+  task2:
+    type: opinion
+    topic: alternative_medicines
+    question: "Nowadays, a growing number of people with health problems are trying alternative medicines and treatments instead of visiting their usual doctor. Do you think this is a positive or a negative development?"
+    keywords: [alternative medicine, health, positive, negative, doctor]

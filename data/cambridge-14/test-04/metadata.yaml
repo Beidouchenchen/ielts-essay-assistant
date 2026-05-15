@@ -1,0 +1,26 @@
+source: Cambridge IELTS 14
+book: 14
+test: 04
+
+question_types:
+  task1:
+    type: map
+    chart_type: map_comparison
+    topic: grange_park
+    time_span: "1920-today"
+    data_points: null
+    has_comparison: true
+    is_multi_chart: true
+    num_charts: 2
+    key_features:
+      - Two maps showing Grange Park in 1920 and today
+      - Original: rose gardens, fountain, stage for musicians, glasshouse, pond for water plants
+      - Today: amphitheatre for concerts, rose garden (central), cafe, children's play area, water feature, underground car park
+      - Entrances remain at Arnold Avenue and Eldon Street
+      - Seats repositioned throughout park
+
+  task2:
+    type: two_part_question
+    topic: self_employment
+    question: "Nowadays many people choose to be self-employed, rather than to work for a company or organisation. Why might this be the case? What could be the disadvantages of being self-employed?"
+    keywords: [self-employed, company, organisation, disadvantages, two-part question]

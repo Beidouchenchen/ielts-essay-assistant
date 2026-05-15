@@ -1,0 +1,29 @@
+source: Cambridge IELTS 10
+book: 10
+test: 02
+question_types:
+  task1:
+    type: table
+    chart_type: multiple_table
+    topic: fairtrade_sales
+    time_span: "1999 and 2004"
+    data_points: 10
+    has_comparison: true
+    is_multi_chart: true
+    num_charts: 2
+    key_features:
+      - coffee sales increased across all countries from 1999 to 2004
+      - UK coffee sales showed largest increase from 1.5 to 20 million euros
+      - Switzerland had highest banana sales in both years
+      - banana sales mixed: some increased, some decreased
+      - Denmark banana sales dropped from 2 to 0.9 million euros
+      - Sweden banana sales dropped from 1.8 to 1 million euros
+  task2:
+    type: discussion
+    topic: university_subjects
+    question: "Some people think that all university students should study whatever they like. Others believe that they should only be allowed to study subjects that will be useful in the future, such as those related to science and technology. Discuss both these views and give your own opinion."
+    keywords:
+      - university
+      - study subjects
+      - science and technology
+      - discussion

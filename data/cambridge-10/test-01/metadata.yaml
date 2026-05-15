@@ -1,0 +1,30 @@
+source: Cambridge IELTS 10
+book: 10
+test: 01
+question_types:
+  task1:
+    type: pie_chart
+    chart_type: multiple_pie_chart
+    topic: energy_use
+    time_span: current
+    data_points: 12
+    has_comparison: true
+    is_multi_chart: true
+    num_charts: 2
+    key_features:
+      - water heating largest energy use at 30%
+      - heating second largest at 42%
+      - cooling smallest at 2%
+      - water heating produces 32% of greenhouse gas emissions
+      - other appliances 28% of emissions despite only 15% energy use
+      - heating only 15% of emissions despite 42% energy use
+      - refrigeration 14% of emissions from 7% energy use
+  task2:
+    type: opinion
+    topic: children_discipline
+    question: "It is important for children to learn the difference between right and wrong at an early age. Punishment is necessary to help them learn this distinction. To what extent do you agree or disagree with this opinion? What sort of punishment should parents and teachers be allowed to use to teach good behaviour to children?"
+    keywords:
+      - children
+      - right and wrong
+      - punishment
+      - agree/disagree

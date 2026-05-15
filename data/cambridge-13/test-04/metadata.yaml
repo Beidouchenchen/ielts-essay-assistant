@@ -1,0 +1,30 @@
+source: Cambridge IELTS 13
+book: 13
+test: 04
+question_types:
+  task1:
+    type: map
+    chart_type: map_comparison
+    topic: sports_centre_redevelopment
+    time_span: "present-future"
+    data_points: null
+    has_comparison: true
+    is_multi_chart: true
+    num_charts: 2
+    key_features:
+      - gym expanded in size
+      - leisure pool added replacing outdoor courts (west)
+      - sports hall added replacing outdoor courts (east)
+      - 2 dance studios added on east side
+      - sports shop and cafe added near reception
+      - additional changing room added
+      - building becomes fully indoor
+  task2:
+    type: problem_solution
+    topic: world_hunger
+    question: "In spite of the advances made in agriculture, many people around the world still go hungry. Why is this the case? What can be done about this problem?"
+    keywords:
+      - agriculture
+      - world hunger
+      - food shortage
+      - solutions

@@ -1,0 +1,26 @@
+source: Cambridge IELTS 14
+book: 14
+test: 03
+
+question_types:
+  task1:
+    type: process
+    chart_type: diagram
+    topic: hydroelectric_power_station
+    data_points: null
+    has_comparison: false
+    is_multi_chart: false
+    num_charts: 1
+    key_features:
+      - Shows how electricity is generated in a hydroelectric power station
+      - Day and night cycle with reversible turbines
+      - River feeds high-level reservoir via dam
+      - Water flows through power station during day to generate electricity
+      - At night, turbines pump water back to high-level reservoir
+      - Power lines connect to national grid
+
+  task2:
+    type: opinion
+    topic: music_cultures_ages
+    question: "Some people say that music is a good way of bringing people of different cultures and ages together. To what extent do you agree or disagree with this opinion?"
+    keywords: [music, cultures, ages, bringing people together, opinion]

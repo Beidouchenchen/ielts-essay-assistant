@@ -1,0 +1,14 @@
+source: Cambridge IELTS 11
+book: 11
+test: 03
+question_types:
+  task1:
+    type: line_graph
+    chart_type: line graph
+    topic: CO2 emissions in UK, Sweden, Italy, Portugal 1967-2007
+    key_features: [carbon dioxide, metric tonnes, emission trends]
+  task2:
+    type: discussion
+    topic: foreign language learning reasons
+    question: "Some people say that the only reason for learning a foreign language is in order to travel to or work in a foreign country. Others say that these are not the only reasons why someone should learn a foreign language. Discuss both these views and give your own opinion."
+    keywords: [foreign language, learning, travel, work]

@@ -1,0 +1,29 @@
+source: Cambridge IELTS 15
+book: 15
+test: 03
+question_types:
+  task1:
+    type: process_diagram
+    chart_type: process
+    topic: instant_noodles_manufacturing
+    time_span: N/A
+    data_points: 8
+    has_comparison: false
+    is_multi_chart: false
+    num_charts: 1
+    key_features:
+      - 8-step manufacturing process for instant noodles
+      - Storage silos → mixer → dough sheets → dough strips → noodles discs → cooking/drying → vegetables+spices → labelling+sealing
+      - Flour delivered by truck from storage silos
+      - Water and oil added in mixer stage
+      - Final product packaged in cups with labels
+  task2:
+    type: discussion
+    topic: advertising_persuasiveness
+    question: "Some people say that advertising is extremely successful at persuading us to buy things. Other people think that advertising is so common that we no longer pay attention to it. Discuss both these views and give your own opinion."
+    keywords:
+      - advertising
+      - persuasive
+      - attention
+      - discuss both views
+      - opinion

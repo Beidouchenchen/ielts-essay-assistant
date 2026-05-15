@@ -1,0 +1,28 @@
+source: Cambridge IELTS 8
+book: 8
+test: 03
+question_types:
+  task1:
+    type: process
+    chart_type: process_diagram
+    topic: cement_concrete
+    time_span: continuous process
+    data_points: 2
+    has_comparison: true
+    is_multi_chart: true
+    num_charts: 2
+    key_features:
+      - cement production: limestone + clay → crusher → powder → mixer → rotating heater → grinder → bags
+      - concrete production: cement (15%) + sand (25%) + gravel (50%) + water (10%) → concrete mixer
+      - cement production uses heat, concrete production does not
+      - cement production has more steps than concrete production
+  task2:
+    type: discussion
+    topic: traffic_pollution
+    question: "Increasing the price of petrol is the best way to solve growing traffic and pollution problems. To what extent do you agree or disagree? What other measures do you think might be effective?"
+    keywords:
+      - petrol price
+      - traffic
+      - pollution
+      - agree/disagree
+      - other measures

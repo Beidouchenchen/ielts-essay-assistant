@@ -1,0 +1,29 @@
+source: Cambridge IELTS 12
+book: 12
+test: 08
+question_types:
+  task1:
+    type: process
+    chart_type: process_diagram
+    topic: geothermal_energy
+    time_span: null
+    data_points: null
+    has_comparison: false
+    is_multi_chart: false
+    num_charts: 1
+    key_features:
+      - 5 stages in geothermal power generation
+      - cold water pumped down 4.5km through injection well
+      - water heated by geothermal zone (hot rocks)
+      - heated water rises through production well
+      - steam powers turbine connected to generator
+      - condenser cools water back to liquid for reuse
+  task2:
+    type: discussion
+    topic: children_choices
+    question: "Some people believe that allowing children to make their own choices on everyday matters (such as food, clothes and entertainment) is likely to result in a society of individuals who only think about their own wishes. Other people believe that it is important for children to make decisions about matters that affect them. Discuss both these views and give your own opinion."
+    keywords:
+      - children choices
+      - parenting
+      - individualism
+      - decision making

@@ -1,0 +1,31 @@
+book: cambridge-18
+test: 2
+task1:
+  type: bar_chart
+  topic: "Number of US households by annual income (2007, 2011, 2015)"
+  data_points:
+    - category: "Less than $25,000"
+      values: [25, 27, 25]
+      years: [2007, 2011, 2015]
+    - category: "$25,000-$49,999"
+      values: [25, 30, 27]
+      years: [2007, 2011, 2015]
+    - category: "$50,000-$74,999"
+      values: [20, 20, 20]
+      years: [2007, 2011, 2015]
+    - category: "$75,000-$99,999"
+      values: [15, 14, 16]
+      years: [2007, 2011, 2015]
+    - category: "$100,000 or more"
+      values: [15, 14, 18]
+      years: [2007, 2011, 2015]
+  visual_features:
+    - grouped bar chart
+    - three time points per category
+    - y-axis: number of households (millions)
+    - scale: 0 to 35 million
+task2:
+  type: opinion
+  topic: "Teaching technology to elderly people"
+  question: "Old people have different needs and interests from younger people, so there is little point in trying to teach the over 60s how to use smartphones and tablets. To what extent do you agree or disagree?"
+  notes: "To what extent do you agree or disagree"

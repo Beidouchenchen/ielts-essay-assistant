@@ -1,0 +1,28 @@
+source: Cambridge IELTS 12
+book: 12
+test: 07
+question_types:
+  task1:
+    type: bar_chart
+    chart_type: grouped_bar_chart
+    topic: fast_food_frequency
+    time_span: "2003-2013"
+    data_points: 6
+    has_comparison: true
+    is_multi_chart: false
+    num_charts: 1
+    key_features:
+      - once or twice a month is the most popular category in all three years
+      - once a week peaked in 2006 then declined in 2013
+      - several times a week increased from 2003 to 2013
+      - never decreased slightly over time
+      - every day remained the lowest category
+  task2:
+    type: discussion
+    topic: transport_investment
+    question: "In a number of countries, some people think it is necessary to spend large sums of money on constructing new railway lines for very fast trains between cities. Others believe the money should be spent on improving existing public transport. Discuss both these views and give your own opinion."
+    keywords:
+      - high-speed rail
+      - public transport
+      - government spending
+      - infrastructure

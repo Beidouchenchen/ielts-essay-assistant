@@ -1,0 +1,27 @@
+source: Cambridge IELTS 16
+book: 16
+test: 04
+question_types:
+  task1:
+    type: process_diagram
+    chart_type: process
+    topic: recycling_plastic_bottles
+    time_span: N/A
+    data_points: 9
+    has_comparison: false
+    is_multi_chart: false
+    num_charts: 1
+    key_features:
+      - 9-step recycling process
+      - Collection, transport, sorting, compressing, crushing, producing pellets, heating, raw material, end products
+      - Plastic bottles → sorted → compressed → crushed → pellets → raw material → new products
+  task2:
+    type: discussion
+    topic: driverless_vehicles
+    question: "In the future all cars, buses and trucks will be driverless. The only people travelling inside these vehicles will be passengers. Do you think the advantages of driverless vehicles outweigh the disadvantages?"
+    keywords:
+      - driverless vehicles
+      - advantages
+      - disadvantages
+      - future
+      - transport

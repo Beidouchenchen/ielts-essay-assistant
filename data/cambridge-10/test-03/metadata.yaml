@@ -1,0 +1,29 @@
+source: Cambridge IELTS 10
+book: 10
+test: 03
+question_types:
+  task1:
+    type: bar_chart
+    chart_type: grouped_bar_chart
+    topic: graduate_destinations
+    time_span: 2008
+    data_points: 8
+    has_comparison: true
+    is_multi_chart: true
+    num_charts: 2
+    key_features:
+      - graduates: full-time study highest at 29,815
+      - graduates: voluntary work lowest at 3,555
+      - postgraduates: full-time study highest at 2,725
+      - postgraduates: voluntary work lowest at 345
+      - graduates significantly higher numbers than postgraduates across all categories
+      - further study popular for both groups
+  task2:
+    type: opinion
+    topic: globalisation
+    question: "Countries are becoming more and more similar because people are able to buy the same products anywhere in the world. Do you think this is a positive or negative development?"
+    keywords:
+      - countries similar
+      - same products
+      - globalisation
+      - positive/negative

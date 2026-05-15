@@ -1,0 +1,4 @@
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.0
+pyyaml>=6.0
+numpy>=1.21.0

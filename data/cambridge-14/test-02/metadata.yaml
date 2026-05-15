@@ -1,0 +1,26 @@
+source: Cambridge IELTS 14
+book: 14
+test: 02
+
+question_types:
+  task1:
+    type: mixed_charts
+    chart_type: bar_chart_with_table
+    topic: export_earnings
+    time_span: "2015-2016"
+    data_points: 10
+    has_comparison: true
+    is_multi_chart: true
+    num_charts: 2
+    key_features:
+      - Bar chart shows export value in 5 categories for 2015 and 2016
+      - Table shows percentage change in each category from 2015 to 2016
+      - Petroleum products highest earner (~$60 billion)
+      - Textiles showed largest percentage increase (15.24%)
+      - Gems and jewellery decreased by 5.18%
+
+  task2:
+    type: discussion
+    topic: species_loss_vs_other_environmental_problems
+    question: "Some people say that the main environmental problem of our time is the loss of particular species of plants and animals. Others say that there are more important environmental problems. Discuss both these views and give your own opinion."
+    keywords: [environmental problem, species loss, plants, animals, discussion]

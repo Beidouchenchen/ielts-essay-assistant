@@ -1,0 +1,26 @@
+source: Cambridge IELTS 17
+book: 17
+test: 01
+
+question_types:
+  task1:
+    type: map
+    chart_type: map_comparison
+    topic: norbiton_industrial_area
+    time_span: null
+    data_points: null
+    has_comparison: true
+    is_multi_chart: false
+    num_charts: 2
+    key_features:
+      - Current: factories, roads, farmland, river
+      - Future: housing, shops, medical centre, school, playground, bridge
+      - Factories replaced by housing
+      - New bridge across river
+      - School and playground added
+
+  task2:
+    type: discussion
+    topic: taking_risks
+    question: "It is important for people to take risks, both in their professional lives and their personal lives. Do you think the advantages of taking risks outweigh the disadvantages?"
+    keywords: [risks, professional, personal, advantages, disadvantages]

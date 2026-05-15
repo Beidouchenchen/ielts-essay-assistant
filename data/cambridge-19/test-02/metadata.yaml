@@ -1,0 +1,27 @@
+source: Cambridge IELTS 19
+book: 19
+test: 02
+
+question_types:
+  task1:
+    type: map
+    chart_type: map_comparison
+    topic: harbour_comparison
+    time_span: "2000-present"
+    data_points: 15
+    has_comparison: true
+    is_multi_chart: true
+    num_charts: 2
+    key_features:
+      - Marina (private yachts) replaced by fishing boats area
+      - Second car park and showers/toilets added
+      - Castle (disused) replaced by Hotel
+      - Public beach near castle became private beach for hotel
+      - Cafes & shops added near lifeboat area
+      - Dock and passenger ferries retained
+
+  task2:
+    type: opinion
+    topic: working_week
+    question: "The working week should be shorter and workers should have a longer weekend."
+    keywords: [working week, weekend, work-life balance, productivity, employment]

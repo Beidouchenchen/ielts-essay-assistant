@@ -1,0 +1,25 @@
+source: Cambridge IELTS 20
+book: 20
+test: 01
+
+question_types:
+  task1:
+    type: table
+    chart_type: table_with_timeline
+    topic: urban_population
+    time_span: "1800-2000"
+    data_points: 9
+    has_comparison: true
+    is_multi_chart: true
+    num_charts: 3
+    key_features:
+      - NYC total population increased dramatically from 79,216 to 8,009,185
+      - Manhattan's share dropped from 76% to 19%
+      - Other districts' share rose from 24% to 81%
+      - Manhattan population peaked in 1900 then declined
+
+  task2:
+    type: opinion
+    topic: public_services_water
+    question: "Access to clean water is a basic human right. Therefore every home should have a water supply that is provided free of charge. Do you agree or disagree?"
+    keywords: [water, human rights, public services, government responsibility]

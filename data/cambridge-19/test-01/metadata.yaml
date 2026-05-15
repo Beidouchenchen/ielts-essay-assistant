@@ -1,0 +1,26 @@
+source: Cambridge IELTS 19
+book: 19
+test: 01
+
+question_types:
+  task1:
+    type: line_graph
+    chart_type: line_graph_multi
+    topic: social_centre_participants
+    time_span: "2000-2020"
+    data_points: 25
+    has_comparison: true
+    is_multi_chart: false
+    num_charts: 1
+    key_features:
+      - Film club highest throughout, peaked ~65 in 2020
+      - Table tennis grew steadily from ~17 to ~55
+      - Martial arts stable around 35-40
+      - Amateur dramatics declined from ~27 to ~7
+      - Musical performances grew from 0 to ~18
+
+  task2:
+    type: discussion
+    topic: competition_vs_cooperation
+    question: "Some people think that competition at work, at school and in daily life is a good thing. Others believe that we should try to cooperate more, rather than competing against each other."
+    keywords: [competition, cooperation, work, school, daily life]
